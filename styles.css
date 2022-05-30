@@ -1,0 +1,12 @@
+th
+{
+    color: rgb(61, 61, 61);
+    cursor: pointer;
+}
+
+.tableTitle
+{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
